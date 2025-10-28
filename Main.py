@@ -11,7 +11,7 @@ lungime = len(text)
 jumatate = lungime // 2
 partea1 = text[:jumatate]
 partea2 = text[jumatate:]
-
+.
 partea1 = partea1.upper().strip()
 partea2 = partea2[::-1]
 partea2 = partea2.capitalize()
